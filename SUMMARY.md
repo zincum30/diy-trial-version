@@ -11,3 +11,10 @@
 * [2022](archive/2022/README.md)
   * [July](archive/2022/july/README.md)
     * [1 Jul - Fri](archive/2022/july/1-jul-fri.md)
+
+## Develop It Yourself
+
+* [Flow Chart](develop-it-yourself/flow-chart.md)
+* [API](develop-it-yourself/api.md)
+* [ERD](develop-it-yourself/erd.md)
+* [System Architecture](develop-it-yourself/system-architecture.md)
